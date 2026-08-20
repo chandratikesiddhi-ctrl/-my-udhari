@@ -1,0 +1,6 @@
+{
+  "name": "My Udhari",
+  "description": "Digital credit and khata management app for grocery stores and small retailers with automated 8-day customer reminders, customer ledgers, and payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
